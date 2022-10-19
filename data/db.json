@@ -1,0 +1,65 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "front": "sdgfgdg",
+      "back": "asdgdfgdfgdsfg",
+      "id": 2
+    },
+    {
+      "front": "edit test",
+      "back": "edit test",
+      "id": 3
+    },
+    {
+      "cards": [],
+      "front": "b",
+      "back": "b",
+      "deckId": 1,
+      "id": 7
+    },
+    {
+      "front": "this is a test",
+      "back": "this is the success",
+      "id": 20
+    },
+    {
+      "front": "isfhfsihfofughdghdog",
+      "back": "dfkhsdoguhgu",
+      "deckId": 1,
+      "id": 21
+    },
+    {
+      "front": "this is a new test",
+      "back": "same old success",
+      "id": 22
+    },
+    {
+      "front": "this is the edited test card",
+      "back": "this is the edited test card's success",
+      "id": 23
+    },
+    {
+      "front": "this is the edited test card",
+      "back": "this is the back of the edited test card",
+      "id": 24
+    },
+    {
+      "front": "this is the edited test card",
+      "back": "this is the back of the edited test card",
+      "id": 25
+    }
+  ]
+}
